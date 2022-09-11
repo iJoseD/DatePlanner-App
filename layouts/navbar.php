@@ -1,6 +1,6 @@
 <nav>
     <div class="nav-wrapper">
-        <a href="#" class="brand-logo">Logo</a>
+        <a href="#" class="brand-logo">DatePlanner App</a>
         
         <ul id="nav-mobile" class="right hide-on-med-and-down">
             <li><a href="">Dashboard</a></li>
