@@ -1,8 +1,8 @@
 <div class="container">
-    <!-- Titulo -->
-    <div class="row mt-5">
-        <div class="col-12">
-            <h1>Hola, que deseas hacer hoy?</h1>
+    <div class="row">
+        <div class="col s12">
+            <h1>¡BIENVENIDO!</h1>
+            <h2>¿Que quieres mirar hoy?</h2>
         </div>
     </div>
 
