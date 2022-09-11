@@ -26,6 +26,9 @@
         <!-- Dashboard -->
         <?php require_once('layouts/dashboard.php'); ?>
 
+        <!-- jQuery 3.6.1 -->
+        <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
         <!--JavaScript at end of body for optimized loading-->
         <script type="text/javascript" src="../dist/js/materialize.min.js"></script>
         <script type="text/javascript" src="../dist/js/main.min.js"></script>
