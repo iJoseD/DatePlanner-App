@@ -3,7 +3,7 @@
         <div class="col-4">
             <div class="card">
                 <div class="card-body">
-                    <img src="/administrador/assets/img/calendar.svg" class="card-img-top">
+                    <img src="http://demo.dateplannerus.com/administrador/assets/img/calendar.svg" class="card-img-top">
                     <p class="card-text">Reservas</p>
                 </div>
             </div>
