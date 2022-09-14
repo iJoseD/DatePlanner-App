@@ -2,7 +2,7 @@
     <div class="row mt-5">
         <!-- Reservas -->
         <div class="col-4">
-            <a href="/administrador/nomina/">
+            <a href="/administrador/reservas/" style="text-decoration: none;">
                 <div class="card">
                     <div class="card-body text-center">
                         <img src="http://demo.dateplannerus.com/administrador/assets/img/calendar.svg">
@@ -14,7 +14,7 @@
 
         <!-- Contabilidad -->
         <div class="col-4">
-            <a href="/administrador/nomina/">
+            <a href="/administrador/contabilidad/?day=&month=<?php echo date('F'); ?>&year=<?php echo date('Y'); ?>" style="text-decoration: none;">
                 <div class="card">
                     <div class="card-body text-center">
                         <img src="http://demo.dateplannerus.com/administrador/assets/img/accounting.svg">
@@ -26,7 +26,7 @@
 
         <!-- Nomina -->
         <div class="col-4">
-            <a href="/administrador/nomina/">
+            <a href="/administrador/nomina/" style="text-decoration: none;">
                 <div class="card">
                     <div class="card-body text-center">
                         <img src="http://demo.dateplannerus.com/administrador/assets/img/salary.svg">
