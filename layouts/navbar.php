@@ -1,31 +1,37 @@
-<!-- Navbar -->
-<nav>
-    <div class="nav-wrapper">
-        <a href="#" class="brand-logo">DatePlanner App</a>
+<nav class="navbar navbar-expand-lg bg-light">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
         
-        <ul id="nav-mobile" class="right hide-on-med-and-down">
-            <li><a href="">Dashboard</a></li>
-            <li><a href="">Reservas</a></li>
-            <li><a href="">Contabilidad</a></li>
-            <li><a href="">Nomina</a></li>
-            <li><a href="">Inventario</a></li>
-            <li><a href="">Facturación</a></li>
-            <li><a href="">Empleados</a></li>
-            <li><a href="">Informes</a></li>
-        </ul>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Dashboard</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Reservas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contabilidad</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Nomina</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Inventario</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Facturación</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Empleados</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Informes</a>
+                </li>
+            </ul>
+        </div>
     </div>
 </nav>
-
-<!-- Floating Action Button -->
-<div class="fixed-action-btn">
-    <a class="btn-floating btn-large red">
-        <i class="large material-icons">mode_edit</i>
-    </a>
-    
-    <ul>
-        <li><a class="btn-floating red"><i class="material-icons">insert_chart</i></a></li>
-        <li><a class="btn-floating yellow darken-1"><i class="material-icons">format_quote</i></a></li>
-        <li><a class="btn-floating green"><i class="material-icons">publish</i></a></li>
-        <li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
-    </ul>
-</div>
