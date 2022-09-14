@@ -5,7 +5,7 @@
             <a href="/administrador/reservas/" style="text-decoration: none;">
                 <div class="card">
                     <div class="card-body text-center">
-                        <img src="http://demo.dateplannerus.com/administrador/assets/img/calendar.svg">
+                        <img src="http://demo.dateplannerus.com/administrador/assets/img/calendar.svg" style="width: 20%;">
                         <p class="card-text">Reservas</p>
                     </div>
                 </div>
@@ -17,7 +17,7 @@
             <a href="/administrador/contabilidad/?day=&month=<?php echo date('F'); ?>&year=<?php echo date('Y'); ?>" style="text-decoration: none;">
                 <div class="card">
                     <div class="card-body text-center">
-                        <img src="http://demo.dateplannerus.com/administrador/assets/img/accounting.svg">
+                        <img src="http://demo.dateplannerus.com/administrador/assets/img/accounting.svg" style="width: 20%;">
                         <p class="card-text">Contabilidad</p>
                     </div>
                 </div>
@@ -29,7 +29,7 @@
             <a href="/administrador/nomina/" style="text-decoration: none;">
                 <div class="card">
                     <div class="card-body text-center">
-                        <img src="http://demo.dateplannerus.com/administrador/assets/img/salary.svg">
+                        <img src="http://demo.dateplannerus.com/administrador/assets/img/salary.svg" style="width: 20%;">
                         <p class="card-text">Nomina</p>
                     </div>
                 </div>
