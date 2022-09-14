@@ -36,4 +36,27 @@
             </a>
         </div>
     </div>
+
+    <div class="row">
+        <!-- Reservas -->
+        <div class="col-4">
+            <a href="/administrador/reservas/" style="text-decoration: none;">
+                <img src="../dist/img/Widget-1.svg">
+            </a>
+        </div>
+
+        <!-- Contabilidad -->
+        <div class="col-4">
+            <a href="/administrador/reservas/" style="text-decoration: none;">
+                <img src="../dist/img/Widget-2.svg">
+            </a>
+        </div>
+
+        <!-- Nomina -->
+        <div class="col-4">
+            <a href="/administrador/reservas/" style="text-decoration: none;">
+                <img src="../dist/img/Widget-3.svg">
+            </a>
+        </div>
+    </div>
 </div>
