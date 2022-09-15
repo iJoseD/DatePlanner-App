@@ -21,4 +21,27 @@
             </a>
         </div>
     </div>
+
+    <div class="row">
+        <!-- Inventario -->
+        <div class="col-4">
+            <a href="/administrador/inventario/" style="text-decoration: none;">
+                <img src="../dist/img/Widget-4.svg" style="width: 100%;">
+            </a>
+        </div>
+
+        <!-- Facturación -->
+        <div class="col-4">
+            <a href="/administrador/pos/?idBooking=" style="text-decoration: none;">
+                <img src="../dist/img/Widget-5.svg" style="width: 100%;">
+            </a>
+        </div>
+
+        <!-- Empleados -->
+        <div class="col-4">
+            <a href="/administrador/empleados/" style="text-decoration: none;">
+                <img src="../dist/img/Widget-6.svg" style="width: 100%;">
+            </a>
+        </div>
+    </div>
 </div>
