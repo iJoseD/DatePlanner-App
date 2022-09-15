@@ -20,16 +20,16 @@
                 <img src="../dist/img/Widget-3.svg" style="width: 100%;">
             </a>
         </div>
-    </div>
 
-    <div class="row">
         <!-- Inventario -->
         <div class="col-3">
             <a href="/administrador/inventario/" style="text-decoration: none;">
                 <img src="../dist/img/Widget-4.svg" style="width: 100%;">
             </a>
         </div>
+    </div>
 
+    <div class="row mt-3">
         <!-- Facturación -->
         <div class="col-3">
             <a href="/administrador/pos/?idBooking=" style="text-decoration: none;">
